@@ -1,2 +1,2 @@
 # Sample_SignalR
- Simple SingalR application
+ Simple SignalR application
